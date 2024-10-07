@@ -1,0 +1,21 @@
+Git init
+
+git config -–global user.name « Grégory LACROIX « 
+git config -–global user.email « gregorylacroix78@gmail.com «
+
+git branch -M main
+
+git remote add origin adresse_github
+
+ssh-keygen : génère un clé de sécurité ssh. Copier / coller dans github
+
+
+git add -–all 
+git commit -m "first version hotel bois dormant"
+git push origin branch
+
+git branch develop : création de la branche develop
+git checkout develop 
+git checkout -b develop : permet de créer et de basculer sur la branche en même temps
+
+
