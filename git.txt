@@ -10,7 +10,7 @@ git remote add origin adresse_github
 ssh-keygen : génère un clé de sécurité ssh. Copier / coller dans github
 
 
-git add -–all 
+git add --all 
 git commit -m "first version hotel bois dormant"
 git push origin branch
 
